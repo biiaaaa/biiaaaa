@@ -8,7 +8,7 @@
 - 💬 +55 (11) 999226951
 - ⚡ Pronomes: ela/dela
 
-<div>
+<!-- <div>
   <a href="https://github.com/biiaaaa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biiaaaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biiaaaa&layout=compact&langs_count=16&theme=dracula"/>
@@ -18,7 +18,7 @@
   
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="right" width="130" height="130" alt="bia-gatinho" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif"/>
-<br>
+<br> -->
   
   
 ### Contatos
